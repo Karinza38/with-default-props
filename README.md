@@ -1,4 +1,4 @@
-`with-default-props` lets you write `DefaultProps` for function components in a painless way.
+ `with-default-props` lets you write `DefaultProps` for function components in a painless way.
 
 
 ## API
